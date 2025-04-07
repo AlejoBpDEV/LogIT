@@ -1,0 +1,6 @@
+@TercerosExternos.API_HostAddress = http://localhost:5165
+
+GET {{TercerosExternos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

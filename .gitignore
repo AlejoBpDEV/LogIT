@@ -1,0 +1,11 @@
+# Archivos generados por compilación
+bin/
+obj/
+
+# Dependencias locales
+*.user
+*.suo
+*.cache
+
+# Archivos de Visual Studio
+.vs/
